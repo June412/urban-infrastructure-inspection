@@ -1,6 +1,17 @@
-# CPT204 Urban Infrastructure Inspection System
+# Urban Infrastructure Inspection System
 
-Console-based Java OOP implementation for the CPT204 group project.
+A console-based Java system for urban infrastructure inspection, featuring sorting benchmarks and Dijkstra-based route planning.
+
+## Academic Context
+
+| Field | Details |
+| --- | --- |
+| University | Xi'an Jiaotong-Liverpool University (XJTLU) |
+| Module | CPT204 — Advanced OO Programming |
+| Project type | Group coursework |
+| Portfolio owner | Junyan He (team member) |
+
+This project was developed collaboratively as a group coursework submission.
 
 ## Run
 
@@ -35,3 +46,4 @@ The program prints report-ready evidence for:
 - Top 10 selected locations from candidates A, B, and C.
 - The four required shortest-path cases using Dijkstra on the full undirected graph.
 - Validation checks for dataset size, unique ids, sorting agreement, graph construction, selected target existence, path endpoints, waypoint order, and path cost.
+
