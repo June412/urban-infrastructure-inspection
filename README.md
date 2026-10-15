@@ -4,6 +4,8 @@
 
 A Java console application that compares sorting algorithms and plans infrastructure inspection routes using Dijkstra's algorithm.
 
+[Project report](Team51_2363304_2360743.docx) · [Diagrams](Diagrams/)
+
 ## Run
 
 With a JDK installed, run from the project root on macOS/Linux:
